@@ -1,2 +1,2 @@
 # helloWorld
-    conole.log('Hello World!')
+    console.log('Hello World!')
